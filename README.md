@@ -1,7 +1,6 @@
 ### 搭建3x-ui服务，自带warp功能无需另外安装
 
-```markdown
-# 3X-UI 安装与配置指南
+## 3X-UI 安装与配置指南
 
 3X-UI 是基于 Xray 的多协议、多用户管理面板，支持 Vmess、Vless、Trojan、ShadowSocks 和 WireGuard 等多种协议，并且内置 WARP 功能。
 
